@@ -1,3 +1,0 @@
-this is sub module 1
-
-this is sub module 1 from top module
